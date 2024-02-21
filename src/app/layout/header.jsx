@@ -116,7 +116,7 @@ export default function Header() {
           </div>
         </div>
       </div>
-      <hr />
+      <hr className="border-black" />
     </div>
   );
 }
