@@ -6,7 +6,7 @@ export default function Dashboard() {
       <div className="carousel rounded-box overflow-hidden pt-6">
         <div className="carousel-inner flex">
           <div className="carousel-item">
-            <img src="https://daisyui.com/images/stock/photo-1559703248-dcaaec9fab78.jpg" alt="Burger" className="w-64 h-auto" />
+            <img src="/img/Frame 560.png" alt="Burger" className="w-64 h-auto" />
           </div>
           <div className="carousel-item">
             <img src="https://daisyui.com/images/stock/photo-1565098772267-60af42b81ef2.jpg" alt="Burger" className="w-64 h-auto" />

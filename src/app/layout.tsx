@@ -7,7 +7,7 @@ import Footer from "./layout/footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Nap Next App",
+  title: "E-Commerce",
   description: "Belajar Next JS",
   icons: {
     icon: { url: "/favicon.ico" },
